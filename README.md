@@ -12,3 +12,5 @@ This is my homework for session 2 of my **CODE FIRST GIRLS - Intro To Web Dev** 
 - Style an index.html page with CSS
 
 ## HOMEWORK SCREENSHOT
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/107806810/210271307-11efa392-fa51-477f-83c8-b03df4504dd3.png">
