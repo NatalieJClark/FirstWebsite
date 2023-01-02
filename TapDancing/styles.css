@@ -1,0 +1,126 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.topnav {
+    background-color: black;
+    overflow: hidden;
+    padding-block: 20px;
+    position: fixed;
+}
+
+.topnav ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.topnav a {
+    font-family: 'Finlandica', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding-inline: 65px;
+    padding-block: 20px;
+}
+
+.topnav a:hover {
+    background-color: rgb(195, 235, 255);
+}
+
+.topnav a:active {
+    background-color: white;
+    color: black;
+}
+
+.heading {
+    font-family: 'Finlandica', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    background-image: url(./Images/TapBanner3.jpeg);
+    background-size: 1440px 410px;
+    margin: 0;
+    padding: 90px;
+}
+
+.section1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    background-color: rgb(195, 235, 255);
+    margin: 20px 100px;
+    padding: 40px;
+}
+
+.section2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    border: 3px dashed black;
+    margin: 20px 100px;
+    padding: 40px
+}
+
+h2 {
+    font-family: 'Finlandica', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left {
+    text-align: left;
+}
+
+.section2 ul {
+    font-style: italic;
+}
+
+
+.section1 a:hover {
+    opacity: 50%;
+}
+
+.section1 a:active {
+    opacity: 100%;
+}
+
+table {
+    width: 50%;
+}
+
+th {
+    height: 70px;
+    background-color: black;
+    color: white;
+}
+
+td {
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+   background-color:rgb(195, 235, 255) ;
+}
+
+.footer {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding: 80px;
+}
