@@ -2,6 +2,8 @@
 
 This is my homework for session 2 of my **CODE FIRST GIRLS - Intro To Web Dev** course
 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-up-right-from-square.svg" width="25" height="25">  View live site]()
+
 ## HOMEWORK TASK
 
 - Build an HTML site with header, paragraph, list, image and table elements
