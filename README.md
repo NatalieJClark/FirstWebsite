@@ -2,7 +2,7 @@
 
 This is my homework for session 2 of my **CODE FIRST GIRLS - Intro To Web Dev** course
 
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-up-right-from-square.svg" width="25" height="25">  View live site]()
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-up-right-from-square.svg" width="25" height="25">  View live site](https://nataliejclark.github.io/FirstWebsite/)
 
 ## HOMEWORK TASK
 
@@ -17,7 +17,7 @@ This is my homework for session 2 of my **CODE FIRST GIRLS - Intro To Web Dev** 
 
 ### Page 1
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/107806810/210271829-8acda97e-9793-4a45-bb39-6887d05f5c82.png">
+[<img width="1440" alt="image" src="https://user-images.githubusercontent.com/107806810/210271829-8acda97e-9793-4a45-bb39-6887d05f5c82.png">](https://nataliejclark.github.io/FirstWebsite/)
 
 **...**
 
